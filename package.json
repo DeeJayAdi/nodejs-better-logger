@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-better-loger",
+  "version": "0.0.1",
+  "description": "`npm install nodejs-better-logger`",
+  "main": "BetterLoger.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "DeeJay Adi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeJayAdi/nodejs-better-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeeJayAdi/nodejs-better-logger/issues"
+  },
+  "homepage": "https://github.com/DeeJayAdi/nodejs-better-logger#readme"
+}
