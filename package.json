@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-better-loger",
+  "name": "nodejs-better-logger",
   "version": "0.0.1",
   "description": "`npm install nodejs-better-logger`",
   "main": "BetterLoger.js",
